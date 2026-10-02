@@ -1,0 +1,16 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Ferramentas
+node_modules/
+.claude/
+
+# Material de referência (não precisa ser publicado no site)
+Apresentação de Marca FazerCriar.png
