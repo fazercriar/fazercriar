@@ -1,0 +1,15 @@
+LOGO OFICIAL DA FAZERCRIAR
+==========================
+
+Coloque aqui os arquivos oficiais da logo (de preferência SVG).
+
+1. Salve a versão para FUNDO ESCURO (texto claro), por exemplo:
+   assets/logo/fazercriar-logo-negativa.svg
+
+2. Abra js/config.js e preencha:
+   logo: { src: "assets/logo/fazercriar-logo-negativa.svg", ... }
+
+O cabeçalho e o rodapé passam a exibir a logo automaticamente.
+Enquanto "src" estiver vazio, o site usa o logotipo provisório em texto.
+
+Símbolo/ícone: substitua favicon.svg (raiz) e assets/icons/apple-touch-icon.png.
